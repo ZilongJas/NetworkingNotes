@@ -34,8 +34,18 @@ ___
 
 ### SMTP (Simple Mail Transfer Protocol)
 - listens on TCP port 25 by default
-- 
 
+___
+
+### POP3 (Post Office Protocol version 3)
+- listens on TCP port 110 by default
+- use more storage as email is kept on the server and synchronized across the email clients.
+
+___
+
+### IMAP (Internet Message Access Protocol)
+- TCP port 143 by default
+- use more storage as email is kept on the server and synchronized across the email clients.
 
 
 
