@@ -10,5 +10,10 @@ OSI (Open Systems Interconnection) model: How communications should occur in a c
 7. Application Layer (Layer 7): Interacts with end-user applications. Providing services and interfaces.
 ___
 
-
+TCP/IP (Transmission Control Protocol/Internet Protocol) model: Created by Department of Defense in 1970s.
+- Application (HTTP, HTTPS, FTP, POP3, SMTP, IMAP, Telnet, SSH) 
+- Transport (TCP,UDP)
+- Network (IP,ICMP,IPSec)
+- Link (Ethernet, WiFi)
+- Physical
 
