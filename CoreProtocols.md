@@ -24,3 +24,27 @@ ___
  
 ___
 
+### FTP (File Transfer Protocol)
+- listens on tcp port 21 by default
+- `ftp [ip]`
+- `type ascii` switch to ASCII mode (for text files)
+- `GET [file].txt`
+
+___
+
+### SMTP (Simple Mail Transfer Protocol)
+- listens on TCP port 25 by default
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
