@@ -26,4 +26,6 @@ ___
 - port 22
 - openssh is the open-source implementation of the ssh protocol
 ___
-### 
+### FTPS vs SFTP
+- SFTP is based on SSH (port 22)
+- FTPS is based on TLS (port 990)
